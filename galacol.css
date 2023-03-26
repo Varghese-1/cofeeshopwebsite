@@ -1,0 +1,28 @@
+.col{
+ position: absolute;   
+ height: 400px;
+ width: 330px;
+ padding-top: 8%;
+ margin-top: 3%;
+}
+.col-1{
+    
+    position: absolute;
+    left: 50px;
+    background:rgb(255, 255, 255);
+}
+.col-2{
+    position: absolute;
+    left: 383px;
+    background:rgb(255, 255, 255); 
+}
+.col-3{
+    position: absolute;
+    left: 716px;
+    background-color: rgb(255, 255, 255);
+}
+.col-4{
+    position: absolute;
+    left: 1050px;
+    background-color: rgb(255, 255, 255);
+}

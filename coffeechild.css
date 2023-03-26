@@ -1,0 +1,31 @@
+.col{
+position: absolute;
+
+height: 480px;
+width: 1200px;
+}
+
+/*.col-1{
+    position:absolute;
+    left: 20px;
+    background:;
+    margin-top: 54px;
+    font-style: oblique;
+}*/
+.col-2{
+position: absolute;
+left: 160px;
+margin-top:3px;
+
+/*background: burlywood;*/
+}
+/*.col-3{
+    position: absolute;
+    left: 930px;
+    background-color: burlywood;
+    margin-top: 100px;
+}*/
+
+
+
+
